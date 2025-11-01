@@ -1,0 +1,7 @@
+4: Command is USER john.doe@example.com
+Executing user
+4: Command is PASS password123x
+Executing pass
+4: Command is LIST
+Executing list
+4: Command is QUIT

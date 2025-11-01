@@ -1,0 +1,16 @@
+4: Command is USER john.doe@example.com
+Executing user
+4: Command is PASS password123
+Executing pass
+4: Command is LIST
+Executing list
+4: Command is RETR 1
+Executing retr
+4: Command is DELE 1
+Executing dele
+4: Command is LIST
+Executing list
+4: Command is QUIT
+Executing quit
+server: waiting for connections...
+server: got connection from 127.0.0.1
